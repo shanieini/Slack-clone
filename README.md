@@ -3,7 +3,7 @@
 
 # Slack-Clone
 In this project you can login with google, send messages from different accounts, create channels and more...
-
+https://slack-clone-75ef6.web.app/
 ## 🚀 About Me
 Hi, my name is Shani Eini, and i am a fullstack/frontend.
 
