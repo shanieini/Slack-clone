@@ -1,9 +1,9 @@
-![Logo](https://res.cloudinary.com/dxpb15pfo/image/upload/v1659368076/%D7%9C%D7%9B%D7%99%D7%93%D7%94_k7jsah.png)
+![Logo](https://res.cloudinary.com/dxpb15pfo/image/upload/v1659368076/%D7%9C%D7%9B%D7%99%D7%93%D7%94_k7jsah.png)(https://slack-clone-75ef6.web.app/)
 
 
 # Slack-Clone
 In this project you can login with google, send messages from different accounts, create channels and more...
-project link: https://slack-clone-75ef6.web.app/
+
 ## 🚀 About Me
 Hi, my name is Shani Eini, and i am a fullstack/frontend.
 
